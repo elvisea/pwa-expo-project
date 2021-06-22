@@ -5,7 +5,7 @@ import { Container, Separator, Title } from './styles';
 const TabOneScreen: React.FC = () => {
   return (
     <Container>
-      <Title>Tab One</Title>
+      <Title>Pagina Um</Title>
       <Separator />
       <EditScreenInfo path="/screens/TabOneScreen.tsx" />
     </Container>
